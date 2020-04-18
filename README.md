@@ -2,7 +2,7 @@
 
 #### _Epicodus 2020 C#/React Cohort Functional Programming Practice Project._
 
-#### _15 April 2020 | Jamie Cozard, Jeremy Kale Padot, Jonathan Carlos, Geoff Goetz_
+#### _15 April 2020 | Jamison Cozart, Jeremy Kale Padot, Jonathan Carlos, Geoff Goetz_
 
 ## Description
 
@@ -55,4 +55,4 @@ _Open the contents of the journal directory in a text editor or IDE of your choi
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Jamie Cozard, Jeremy Kale Padot, Jonathan Carlos, Geoff Goetz_**
+Copyright (c) 2020 **_Jamison Cozart, Jeremy Kale Padot, Jonathan Carlos, Geoff Goetz_**
